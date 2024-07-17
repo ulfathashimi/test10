@@ -1,3 +1,1 @@
 
-
-[smtp.gmail.com]:587 shams.hashimi28@gmail.com:mtnpvrhnklvuoroh
